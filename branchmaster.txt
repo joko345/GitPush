@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 ssss
-=======
 konflik newbranch
 sss
->>>>>>> new_branch
+ssscc
